@@ -64,13 +64,7 @@ Always looking to **learn fast, build fast, and solve real-world problems.**
 
 ---
 
-###  GitHub Trophy
 
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=aniket0929" />
-</p>
-
----
 
 ##  My GitHub Stats
 
@@ -88,10 +82,10 @@ Always looking to **learn fast, build fast, and solve real-world problems.**
 
 ---
 
-### 🤝 Let's Connect
+###  Let's Connect
 
-- 💼 Open to full-time opportunities  
-- 🚀 Interested in impactful engineering teams  
+- Open to full-time opportunities  
+-  Interested in impactful engineering teams  
 
-**[LinkedIn](https://www.linkedin.com/in/aniket-gavate-091209233/)** •  
+**[LinkedIn](https://www.linkedin.com/in/aniket-gavate-091209233/)**   
 **[Portfolio](https://aniketgprofile.vercel.app/)**  
